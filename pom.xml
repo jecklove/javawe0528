@@ -39,7 +39,7 @@
 		<dependency>
 		    <groupId>junit</groupId>
 		    <artifactId>junit</artifactId>
-		    <version>4.13</version>
+		    <version>4.13.1</version>
 		    <!-- 作用域：测试，该依赖只能在src/test/java目录中使用，项目上线不携带该依赖 -->
 		    <scope>test</scope>
 		</dependency>
